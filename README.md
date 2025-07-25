@@ -19,3 +19,8 @@ Ensure you have the following libraries installed:
 You can install the required libraries using pip:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+```
+## Results
+<img width="638" height="473" alt="image" src="https://github.com/user-attachments/assets/680b62a7-d26e-477b-8adb-aea533872cf4" />
+<img width="638" height="473" alt="image" src="https://github.com/user-attachments/assets/1406d19b-103d-4d7b-856d-56466e57dcc6" />
+
